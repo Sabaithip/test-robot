@@ -1,4 +1,6 @@
 eat
+- eat cat
+- eat duck
 play
 sleep
 run
